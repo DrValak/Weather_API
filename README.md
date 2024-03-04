@@ -1,5 +1,8 @@
 # INTRODUCTION: 
-Weather API - with data from openweathermap.org, updated every 30min
+Weather API - with data from openweathermap.org
+
+# UPDATE 4/03/2024
+Created and web service to retrieve the weather data for the user selecting a point in the world map
 
 # MAIN FUNCTION:
 Retrieve date, temperature, humidity and description of the weather, in the geographic position (lat,long)
