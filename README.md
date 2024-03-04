@@ -2,7 +2,7 @@
 Weather API - with data from openweathermap.org
 
 # UPDATE 4/03/2024
-Created and web service to retrieve the weather data for the user selecting a point in the world map
+Created and web service to retrieve the weather data for the user selecting a point in the world map, png image to see the result
 - Just running the file with weather.html in the templates folder
 - Open the browser in the url the program shows
 - Select any point in the map you want
@@ -11,7 +11,7 @@ Created and web service to retrieve the weather data for the user selecting a po
 # MAIN FUNCTION:
 Retrieve date, temperature, humidity and description of the weather, in the geographic position (lat,long)
 
-# INSTRUCTION OF USE:
+# INSTRUCTION OF USE: (sample file, prompt)
 - Need to register in openweathermap.org
 - Get an API key
 - Copy and paste the key to the core of the program
