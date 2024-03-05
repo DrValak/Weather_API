@@ -8,6 +8,11 @@ Created and web service to retrieve the weather data for the user selecting a po
 - Select any point in the map you want
 - Below you will see the data
 
+# UPDATE 5/03/2024
+Created the UI interface for the program
+- Just insert the lat and long
+- Press the button and get the data
+
 # MAIN FUNCTION:
 Retrieve date, temperature, humidity and description of the weather, in the geographic position (lat,long)
 
