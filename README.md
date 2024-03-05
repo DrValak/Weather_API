@@ -9,9 +9,10 @@ Created and web service to retrieve the weather data for the user selecting a po
 - Below you will see the data
 
 # UPDATE 5/03/2024
-Created the UI interface for the program
+Created the UI interface for the program (weather_UI)
 - Just insert the lat and long
 - Press the button and get the data
+NOTE: It's possible to make a standalone version (.exe) later with this
 
 # MAIN FUNCTION:
 Retrieve date, temperature, humidity and description of the weather, in the geographic position (lat,long)
