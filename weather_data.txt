@@ -1,0 +1,5 @@
+Date and Time: 2024-03-05 11:41:36
+Temperature (ºC): 13.56
+Humidity (%): 63
+Description: scattered clouds
+
